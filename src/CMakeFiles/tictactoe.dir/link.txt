@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -flto -shared  -o tictactoe.cpython-310-x86_64-linux-gnu.so CMakeFiles/tictactoe.dir/game.cpp.o 

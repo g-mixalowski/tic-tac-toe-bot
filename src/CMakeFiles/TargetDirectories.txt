@@ -1,0 +1,7 @@
+/home/mixalowski/projects/tic-tac-toe-bot/src/CMakeFiles/tictactoe.dir
+/home/mixalowski/projects/tic-tac-toe-bot/src/CMakeFiles/edit_cache.dir
+/home/mixalowski/projects/tic-tac-toe-bot/src/CMakeFiles/rebuild_cache.dir
+/home/mixalowski/projects/tic-tac-toe-bot/src/CMakeFiles/list_install_components.dir
+/home/mixalowski/projects/tic-tac-toe-bot/src/CMakeFiles/install.dir
+/home/mixalowski/projects/tic-tac-toe-bot/src/CMakeFiles/install/local.dir
+/home/mixalowski/projects/tic-tac-toe-bot/src/CMakeFiles/install/strip.dir
